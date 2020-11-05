@@ -1,4 +1,5 @@
 ## <div align="center">Hey 👋, I'm Arnaud Soulabaille!</div>  
+## <div align="center">Front-End Developer from France</div>  
   
 
 <div align="center">
@@ -19,7 +20,7 @@
 
 
 
-### Glad to see you here!  
+### About me  
 After 7 years working in film Industry, as a graphist specializing in compositing, I decided to train myself in web development by joining, in April 2020, the O'Clock school. 
 
 Attracted by graphics, user interfaces and technology, I chose React.js to specialize in the Front-End. 
