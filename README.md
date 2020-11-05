@@ -25,7 +25,7 @@ After 7 years working in film Industry, as a graphist specializing in compositin
 
 Attracted by graphics, user interfaces and technology, I chose React.js to specialize in the Front-End. 
 
-I am curious and I want to learn more about this constantly evolving profession.  
+
   
 
 <br/>  
