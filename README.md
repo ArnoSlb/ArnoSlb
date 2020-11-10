@@ -40,7 +40,7 @@ Attracted by graphics, user interfaces and technology, I chose React.js to speci
 - 👨‍🎓  I'm preparing for Web Developer Exam  
   
 
-- 🌱 I want to learn Swift and Vue.js  
+- 🌱 I want to learn Vue.js, Node.js and Swift  
   
 
 - ⚡ I'm currently looking for job opportunities  
