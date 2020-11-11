@@ -23,7 +23,7 @@
 ### About me  
 After 7 years working in film Industry, as a graphist specializing in compositing, I decided to train myself in web development by joining, in April 2020, the <a href="https://oclock.io/" target="_blank">O'Clock school</a>. 
 
-Attracted by graphics, user interfaces and technology, I chose React.js to specialize in the Front-End. 
+Attracted by graphics, user interfaces and technology, I chose React to specialize in Front-End. 
 
 
   
