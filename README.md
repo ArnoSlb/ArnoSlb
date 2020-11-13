@@ -83,12 +83,12 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&layout=compact&langs_count=8" align="center" /></div>
 
 </td></tr></table>  
 
 <br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&custom_title=My Stats Of The Week&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&custom_title=My Stats Of The Week&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
  
