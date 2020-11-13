@@ -76,7 +76,8 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="33%">
+
+<table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
@@ -84,10 +85,12 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&layout=compact" align="center" /></div>
 
-
 </td></tr></table>  
-<br/> 
 
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&hide_border=true&custom_title=My Stats Of The Week&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&hide_border=true&custom_title=My Stats Of The Week" align="center" style="width: 100%" 
      
