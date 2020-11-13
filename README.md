@@ -88,7 +88,7 @@
 </td></tr></table>  
 
 <br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&custom_title=My Stats Of The Week&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&custom_title=My Stats Of The Week&show_icons=true&count_private=true&layout=compact" align="center" /></div>  
 
 <br/>  
  
