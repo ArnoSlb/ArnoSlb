@@ -54,7 +54,7 @@
 <img src=https://cdn.iconscout.com/icon/free/png-256/linkedin-168-558642.png alt=linkedin style="margin: 5px;" width="50"/>
 </a>
 <a href="https://twitter.com/slblle" target="_blank">
-<img src=https://image.flaticon.com/icons/png/512/23/23681.png alt=twitter style="margin-bottom: 5px;" width="50"/>
+<img src=https://image.flaticon.com/icons/png/512/23/23681.png alt=twitter style="margin-bottom: 5px;" width="48"/>
 </a>  
 </div>  
 <br/> 
