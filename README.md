@@ -1,5 +1,8 @@
 ## <div align="center">Hey 👋 I'm Arnaud Soulabaille, a Front-End Developer</div>  
-<img src="https://komarev.com/ghpvc/?username=ArnoSlb&&style=flat-square" align="center" />  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ArnoSlb&&style=flat-square" align="center" />
+</div> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -24,16 +27,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-
 </div>  
-
-<br/>  
-
+<br/> 
 
 ## Github Stats  
 
 <table><tr><td valign="top" width="50%">
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
@@ -44,19 +43,6 @@
 
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&custom_title=My Stats Of The Week&show_icons=true&count_private=true" align="center" /></div>  
-
-<br/>  
- 
-<br/>  
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=ArnoSlb&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
 
