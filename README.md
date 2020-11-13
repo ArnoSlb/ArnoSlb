@@ -82,7 +82,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&theme=react&layout=compact" align="center" style="width: 100%, margin: 0 auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&theme=react&layout=compact" align="center" style="width: 495px, height:195px" />
 
 </div>
 
