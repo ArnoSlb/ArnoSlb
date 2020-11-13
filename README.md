@@ -76,17 +76,22 @@
 
 
 ## Github Stats  
-<div align="center">
+<table><tr><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true&theme=prussian" align="center" style="width: 100%" />
-</div>
-<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td><td valign="top" width="33%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&layout=compact" align="center" /></div>
+
+</td><td valign="top" width="33%">
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&theme=prussian&card_width=495px&langs_count=10" align="center" style="width: 100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&hide_border=true&custom_title=My Stats Of The Week" align="center" style="width: 100%" 
+     
+</td></tr></table>  
 <br/> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&theme=prussian&custom_title=My Stats Of The Week" align="center" style="width: 100%" />
+
 </div>
 <br/> 
 
