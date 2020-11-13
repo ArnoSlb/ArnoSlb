@@ -80,9 +80,12 @@
 ## Github Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&theme=react" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArnoSlb&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%" />
+<br/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoSlb&hide_border=true&theme=dark&card_width=495px&langs_count=10" align="center" style="width: 100%" />
+<br/> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&theme=dark" align="center" style="width: 100%" />
+<br/> 
 
 </div>
 
