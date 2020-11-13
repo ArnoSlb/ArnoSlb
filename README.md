@@ -88,8 +88,6 @@
 
 </td></tr></table>  
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&hide_border=true" align="center" style="width: 100%" />
-
 <br/>  
 
   
