@@ -1,52 +1,5 @@
-## <div align="center">Hey 👋 I'm Arnaud Soulabaille, Front-End Developer</div>  
-  
-<div align="center">
-<a href="https://github.com/ArnoSlb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/arnoslb" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/arnaudsoulabaille" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/slblle" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/> 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-<br/>  
-  
-
-- 🖥️   I’m currently developing [L'étagère](https://github.com/ArnoSlb/Letagere_Frontend)  
-  
-
-- 👨‍🎓  I'm preparing for Web Developer Exam  
-  
-
-- 🌱 I want to learn Vue.js, Node.js and Swift  
-  
-
-- ⚡ I'm currently looking for job opportunities  
-  
-
-- 📬   Reach me at soulabaille.arnaud@gmail.com  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
+## <div align="center">Hey 👋 I'm Arnaud Soulabaille, a Front-End Developer</div>  
+<img src="https://komarev.com/ghpvc/?username=ArnoSlb&&style=flat-square" align="center" />  
 
 ## Languages and Tools  
 <div align="center">  
@@ -107,5 +60,15 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<a href="https://codepen.com/arnoslb" target="_blank">
+<img src=https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png =100x100 alt=codepen style="margin-bottom: 50px;" width="50"/>
+</a>
+<a href="https://linkedin.com/in/arnaudsoulabaille" target="_blank">
+<img src=https://cdn.iconscout.com/icon/free/png-256/linkedin-168-558642.png alt=linkedin style="margin: 5px;" width="50"/>
+</a>
+<a href="https://twitter.com/slblle" target="_blank">
+<img src=https://image.flaticon.com/icons/png/512/23/23681.png alt=twitter style="margin-bottom: 5px;" width="50"/>
+</a>  
+</div>  
+<br/> 
