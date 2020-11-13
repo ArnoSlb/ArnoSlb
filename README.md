@@ -86,17 +86,12 @@
 </div>
 <br/> 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&theme=prussian" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb&theme=prussian&custom_title=My Stats Of The Week" align="center" style="width: 100%" />
 </div>
 <br/> 
 
-
-
-
 <br/>  
-
-  
-
+ 
 <br/>  
 
 <div align="center">
