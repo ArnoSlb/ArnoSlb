@@ -16,20 +16,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-
-### About me  
-After 7 years working in film Industry, as a graphist specializing in compositing, I decided to train myself in web development by joining, in April 2020, the <a href="https://oclock.io/" target="_blank">O'Clock school</a>. 
-
-Attracted by graphics, user interfaces and technology, I chose React to specialize in Front-End. 
-
-
-  
-
-<br/>  
-
+<br/> 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -102,9 +89,6 @@ Attracted by graphics, user interfaces and technology, I chose React to speciali
 </td></tr></table>  
 
 <br/>  
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb" align="left" style="width: 100%" />
-
 
   
 
