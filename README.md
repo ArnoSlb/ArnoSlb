@@ -103,7 +103,7 @@ Attracted by graphics, user interfaces and technology, I chose React to speciali
 
 <br/>  
 
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnoSlb" align="left" style="width: 100%" />
 
 
   
