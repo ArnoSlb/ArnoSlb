@@ -43,7 +43,7 @@
 
 ## Current Project
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoSlb&repo=Letagere_Frontend&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoSlb&repo=Letagere_Frontend&theme=dark&icon_color=2f80ed" align="center" /></div>  
 
 <br />
 <br />
