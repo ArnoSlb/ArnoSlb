@@ -65,8 +65,9 @@
 
 <div align="center">
   <a href="https://github.com/ArnoSlb/Letagere_Frontend" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoSlb&repo=Letagere_Frontend&theme=dark&icon_color=2f80ed" align="center" /></div>  
+  
   </a>
+</div>  
   
 <br />
 
