@@ -73,6 +73,7 @@
 <br />
 <br />
 
+## Connect with me
 <div align="center">
 <a href="https://codepen.com/arnoslb" target="_blank">
 <img src=https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png =100x100 alt=codepen style="margin-bottom: 50px;" width="30"/>
@@ -84,4 +85,5 @@
 <img src=https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667 alt=twitter style="margin-bottom: 5px;" width="30"/>
 </a>  
 </div>  
+<br/> 
 <br/> 
