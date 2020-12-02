@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋 I'm Arnaud Soulabaille, a Front-End Developer</div>  
+## <div align="center">Hey 👋 I'm Arnaud Soulabaille, a passionate Developer</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ArnoSlb&&style=flat-square" align="center" />
