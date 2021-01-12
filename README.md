@@ -66,8 +66,8 @@
 ## Current Project
 
 <div align="center">
-  <a href="https://github.com/ArnoSlb/Letagere_Frontend" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoSlb&repo=Letagere_Frontend&theme=dark&icon_color=2f80ed&cache_seconds=1800" align="center" />
+  <a href="https://github.com/ArnoSlb/Porsche-911-Project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnoSlb&repo=Porsche-911-Project&theme=dark&icon_color=2f80ed&cache_seconds=1800" align="center" />
   </a>
 </div>  
   
