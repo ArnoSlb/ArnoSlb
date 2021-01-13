@@ -23,8 +23,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />  
-<img style="margin: 10px" src="https://ingenuitysoftwarelabs.com/wp-content/uploads/2020/01/three-js-logo.png" alt="Vue.js" height="50" />  
+<img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />  
+<img style="margin-top: 10px" src="https://ingenuitysoftwarelabs.com/wp-content/uploads/2020/01/three-js-logo.png" alt="Vue.js" height="50" />  
  
 </div>
 <br/>
